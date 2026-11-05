@@ -1,0 +1,13 @@
+# Built binary
+/go-cli-pokedex
+
+# Test and coverage output
+*.test
+*.out
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
